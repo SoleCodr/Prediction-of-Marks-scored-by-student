@@ -10,3 +10,8 @@ Dataset can be downloaded from this <a href="https://raw.githubusercontent.com/S
 
 ### Main Question
 <b>What will be predicted score if a student study for 9.25 hrs in a day? </b>
+
+### WebApp
+**A webapp of this project made by streamlit hosted on Heroku.**
+
+[Marks Prediction App](https://marks-prediction1.herokuapp.com/)
