@@ -8,6 +8,8 @@ In this regression task we will predict the percentage of marks that a student i
 
 Dataset can be downloaded from this <a href="https://raw.githubusercontent.com/SoleCodr/Prediction-of-Marks-scored-by-student/master/Data.txt?token=AGEY7MBIGAHSIIG6U7BN7ES7FWEOO">link</a>
 
+
+<hr>
 ### Main Question
 <b>What will be predicted score if a student study for 9.25 hrs in a day? </b>
 
